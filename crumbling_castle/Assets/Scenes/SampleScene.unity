@@ -129,27 +129,27 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 56ca56168a6cb9b45924e7b4cb4c9cb4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.15
+      value: 0.11825667
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 56ca56168a6cb9b45924e7b4cb4c9cb4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.02
+      value: 0.01999998
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 56ca56168a6cb9b45924e7b4cb4c9cb4, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 17.04
+      value: 17.185045
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 56ca56168a6cb9b45924e7b4cb4c9cb4, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.0119721545
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 56ca56168a6cb9b45924e7b4cb4c9cb4, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 56ca56168a6cb9b45924e7b4cb4c9cb4, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0.9999284
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 56ca56168a6cb9b45924e7b4cb4c9cb4, type: 3}
       propertyPath: m_LocalRotation.z
@@ -161,7 +161,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 56ca56168a6cb9b45924e7b4cb4c9cb4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 178.628
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 56ca56168a6cb9b45924e7b4cb4c9cb4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -171,6 +171,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BasicMotions_DummyModel_F
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 56ca56168a6cb9b45924e7b4cb4c9cb4, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 85a638439e437b640b28d7616bad1102, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
